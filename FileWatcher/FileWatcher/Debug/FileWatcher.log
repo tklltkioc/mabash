@@ -1,0 +1,4 @@
+﻿  FileWatch.cpp
+f:\vs\filewatcher\filewatcher\filewatch.cpp(88): warning C4101: “i”: 未引用的局部变量
+  FileWatcher.vcxproj -> F:\vs\FileWatcher\Debug\FileWatcher.exe
+  FileWatcher.vcxproj -> F:\vs\FileWatcher\Debug\FileWatcher.pdb (Full PDB)

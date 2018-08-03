@@ -1,0 +1,6 @@
+﻿  FileWatch.cpp
+f:\vs\filewatcher\filewatcher\filewatch.cpp(171): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs\filewatcher\filewatcher\filewatch.cpp(177): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs\filewatcher\filewatcher\filewatch.cpp(88): warning C4101: “i”: 未引用的局部变量
+  FileWatcher.vcxproj -> F:\vs\FileWatcher\x64\Debug\FileWatcher.exe
+  FileWatcher.vcxproj -> F:\vs\FileWatcher\x64\Debug\FileWatcher.pdb (Full PDB)
